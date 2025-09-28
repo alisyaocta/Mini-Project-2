@@ -1,4 +1,4 @@
-[Mini Project 2.py](https://github.com/user-attachments/files/22582580/Mini.Project.2.py)# MINI-PROJECT-2
+# MINI-PROJECT-2
 
 **===== SISTEM INFORMASI NILAI KELAS B SMAN 2 BERAU =====**
 
@@ -14,7 +14,7 @@
 
 
 # File Program
-FILE : [Uploading Mini Project 2.py…]()
+FILE : [Mini Project 2.py](https://github.com/user-attachments/files/22582580/Mini.Project.2.py)
 
 
 # Penjelasan Kode dan Output
