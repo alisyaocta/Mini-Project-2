@@ -32,7 +32,7 @@ Menggunakan beberapa list (daftar), seperti :
 4. List Nilai B.Indonesia
 5. List Nilai B.Inggris
 6. List Mata Pelajaran
-   
+
 Menggunakan dictionary untuk menyimpan data. Dictionary ini seperti "kotak penyimpanan" sederhana.
 
 <img width="666" height="202" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/9a91087f-bd52-4608-a222-748add0f0c40" />\
@@ -40,10 +40,10 @@ Menggunakan dictionary untuk menyimpan data. Dictionary ini seperti "kotak penyi
 <img width="666" height="238" alt="Screenshot (259)" src="https://github.com/user-attachments/assets/19daf650-9cc8-4792-ad4b-52be2a48444a" />\
 **PENJELASAN**\
 
-<img width="510" height="387" alt="Screenshot (268)" src="https://github.com/user-attachments/assets/987f0788-c2ce-4472-bf04-f0f6f0d41298" />
+<img width="510" height="387" alt="Screenshot (268)" src="https://github.com/user-attachments/assets/987f0788-c2ce-4472-bf04-f0f6f0d41298" />\
 **OUTPUT**\
 AAA
-<img width="510" height="290" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/0aa4d856-47f5-4e39-8be2-4615c1f8deb2" />
+<img width="510" height="290" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/0aa4d856-47f5-4e39-8be2-4615c1f8deb2" />\
 **OUTPUT**\
 AA
 
